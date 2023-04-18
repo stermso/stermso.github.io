@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blog</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Apr 2023 20:24:14 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Five</title>
+      <link>/posts/five/</link>
+      <pubDate>Tue, 18 Apr 2023 20:24:14 +0800</pubDate>
+      
+      <guid>/posts/five/</guid>
+      <description>第五篇博客 </description>
+    </item>
+    
+    <item>
+      <title>Four</title>
+      <link>/posts/four/</link>
+      <pubDate>Tue, 18 Apr 2023 20:24:09 +0800</pubDate>
+      
+      <guid>/posts/four/</guid>
+      <description>第四篇博客 </description>
+    </item>
+    
+    <item>
+      <title>Three</title>
+      <link>/posts/three/</link>
+      <pubDate>Tue, 18 Apr 2023 20:24:05 +0800</pubDate>
+      
+      <guid>/posts/three/</guid>
+      <description>第三篇博客 </description>
+    </item>
+    
+    <item>
+      <title>Two</title>
+      <link>/posts/two/</link>
+      <pubDate>Tue, 18 Apr 2023 20:24:00 +0800</pubDate>
+      
+      <guid>/posts/two/</guid>
+      <description>第二篇博客 </description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>/posts/first-post/</link>
+      <pubDate>Tue, 18 Apr 2023 20:18:41 +0800</pubDate>
+      
+      <guid>/posts/first-post/</guid>
+      <description>第一篇博客 </description>
+    </item>
+    
+  </channel>
+</rss>
